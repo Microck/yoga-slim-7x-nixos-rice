@@ -1,0 +1,7 @@
+/result
+/result-*
+/.direnv
+/.envrc
+/.devenv
+*.qcow2
+*.img
