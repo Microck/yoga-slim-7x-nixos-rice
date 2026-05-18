@@ -1,7 +1,7 @@
 { config, inputs, pkgs, username, ... }:
 
 let
-  wallpaper = ./assets/wallpaper.svg;
+  wallpaper = ./assets/wallpaper.png;
   ricePython = pkgs.python3.withPackages (pythonPackages: [
     pythonPackages.pyside6
   ]);

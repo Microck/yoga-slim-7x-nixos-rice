@@ -8,7 +8,16 @@ This repository intentionally omits private machine data:
 - no passwords or password hashes
 - no disk UUIDs
 - no Tailscale machine identity or state
-- no private wallpaper asset
+
+## Preview
+
+![Desktop rice preview](assets/screenshots/desktop-rice.png)
+
+## Inspiration
+
+The visual target was based on this reference tweet:
+
+https://x.com/otomir23/status/1980389042861883457
 
 ## What It Configures
 
@@ -61,7 +70,7 @@ This repository intentionally omits private machine data:
 
 ## Wallpaper
 
-The committed `assets/wallpaper.svg` is only a placeholder. Replace it with your own image and update `home.nix` if you change the filename.
+The committed `assets/wallpaper.png` is the wallpaper used by the preview screenshot. Replace it with your own image and update `home.nix` if you change the filename.
 
 ## Notes
 
